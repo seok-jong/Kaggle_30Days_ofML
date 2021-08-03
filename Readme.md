@@ -1,8 +1,6 @@
 # Kaggle [30 Days of ML]
 
----
-
-
+![image](https://user-images.githubusercontent.com/77032455/127953298-32516696-95fd-4bc9-a634-e73236bb4819.png)
 
 ## How does the challenge work?
 
