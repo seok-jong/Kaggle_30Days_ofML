@@ -20,7 +20,7 @@ reference : https://www.kaggle.com/thirty-days-of-ml?utm_medium=email&utm_source
 | :--: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | Day1 | Python <br />Level up to Contributor                         | [Day1](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day1) |
 | Day2 | Python<br />Hello, Python ( Python Lesson 1 )                | [Day2](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day2) |
-| Day3 | Python<br />Functions and Getting Help ( Python Lesson 2 )   |                                                              |
+| Day3 | Python<br />Functions and Getting Help ( Python Lesson 2 )   | [Day3](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day3) |
 | Day4 | Python<br />Booleans and Conditionals (Python Lesson 3 )     |                                                              |
 | Day5 | List (Python Lesson 4) & Loops and List Comprehensions (Python Lesson 5 ) |                                                              |
 | Day6 | Strings and Dictionaries (Python 6 )                         |                                                              |
