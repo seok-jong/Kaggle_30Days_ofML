@@ -34,3 +34,9 @@ reference : https://www.kaggle.com/thirty-days-of-ml?utm_medium=email&utm_source
 | Day14 | Intermediate ML:<br />XGBoost (Lesson 6)<br />Data Leakage (Lesson 7) |                                                              |
 |       | 행 추가 :  ``` Ctrl + Enter```                               |                                                              |
 
+
+
+## Certificates
+
+![hyeon seok jong - Python](https://user-images.githubusercontent.com/77032455/129177671-cb80fac6-810b-4d94-9110-feaf64cd3484.png)
+
