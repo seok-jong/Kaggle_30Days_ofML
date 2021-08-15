@@ -25,8 +25,8 @@ reference : https://www.kaggle.com/thirty-days-of-ml?utm_medium=email&utm_source
 | Day5  | Python<br />List (Python Lesson 4) & Loops and List Comprehensions (Python Lesson 5 ) | [Day5](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day5) |
 | Day6  | Python<br />Strings and Dictionaries (Python 6 )             | [Day6](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day6) |
 | Day7  | Python<br />Working with External Libraries ( Python Lesson 7 ) | [Day7](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day7) |
-| Day8  | Intro to ML:<br />How Models Work (Lesson 1)<br />Basic Data Exploration (Lesson 2) |                                                              |
-| Day9  | Intro to ML:<br />Basic Data Exploration (Lesson 3)<br />Model Validation (Lesson 4) |                                                              |
+| Day8  | Intro to ML:<br />How Models Work (Lesson 1)<br />Basic Data Exploration (Lesson 2) | [Day8](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day8) |
+| Day9  | Intro to ML:<br />Basic Data Exploration (Lesson 3)<br />Model Validation (Lesson 4) | [Day9](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day9) |
 | Day10 | Intro to ML:<br />Underfitting and Overfitting (Lesson 5)<br />Random Forests (Lesson 6) |                                                              |
 | Day11 | Intro to ML:<br />Machine Learning Competitions (Lesson 7)   |                                                              |
 | Day12 | Intermediate ML:<br />Introduction (Lesson 1)<br />Missing Values (Lesson 2)<br />Categorical Variables (Lesson 3) |                                                              |
