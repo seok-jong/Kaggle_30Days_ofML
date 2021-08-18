@@ -28,7 +28,7 @@ reference : https://www.kaggle.com/thirty-days-of-ml?utm_medium=email&utm_source
 | Day8  | Intro to ML:<br />How Models Work (Lesson 1)<br />Basic Data Exploration (Lesson 2) | [Day8](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day8) |
 | Day9  | Intro to ML:<br />Basic Data Exploration (Lesson 3)<br />Model Validation (Lesson 4) | [Day9](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day9) |
 | Day10 | Intro to ML:<br />Underfitting and Overfitting (Lesson 5)<br />Random Forests (Lesson 6) | [Day10](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day10) |
-| Day11 | Intro to ML:<br />Machine Learning Competitions (Lesson 7)   |                                                              |
+| Day11 | Intro to ML:<br />Machine Learning Competitions (Lesson 7)   | [Day11](https://github.com/seok-jong/Kaggle_30Days_ofML/tree/master/Day11) |
 | Day12 | Intermediate ML:<br />Introduction (Lesson 1)<br />Missing Values (Lesson 2)<br />Categorical Variables (Lesson 3) |                                                              |
 | Day13 | Intermediate ML:<br />Pipelines (Lesson 4)<br />Cross-Validation (Lesson 5) |                                                              |
 | Day14 | Intermediate ML:<br />XGBoost (Lesson 6)<br />Data Leakage (Lesson 7) |                                                              |
